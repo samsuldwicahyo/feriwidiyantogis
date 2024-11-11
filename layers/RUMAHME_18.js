@@ -1,0 +1,1 @@
+var json_RUMAHME_18 = {"type":"FeatureCollection","name":"RUMAHME_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"NAMA":"RUMAH FERI WIDIYANTO"},"geometry":{"type":"Point","coordinates":[109.123017588553125,-7.508377798301671]}}]}
